@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "For Future Reference"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/potocnyj\">John Potocny</a> 2018"
+description = "For Future Reference"
+
 # Number of posts per page
 Paginate = 10
 enableRobotsTXT = true
@@ -10,7 +12,8 @@ enableRobotsTXT = true
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
-homeTitle = "" # Title for home page
+homeTitle = "For Future Reference" # Title for home page
+byline = "by John Potocny"
 poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 related = false # Includes related articles
 
@@ -28,3 +31,6 @@ codepen = ""
 
 [taxonomies]
 tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
