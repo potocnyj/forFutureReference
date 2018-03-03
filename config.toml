@@ -4,7 +4,7 @@ title = "For Future Reference"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/potocnyj\">John Potocny</a> 2018"
 description = "For Future Reference"
-
+disqusShortname = "forfuturereference"
 # Number of posts per page
 Paginate = 10
 enableRobotsTXT = true
